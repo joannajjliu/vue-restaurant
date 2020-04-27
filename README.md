@@ -1,5 +1,13 @@
 # vue-meal-prep
 
+## Project goals:
+* Learn implementations of Vuetify design library 
+* Learn Vuex state management
+* Use firebase for sign-in credentials
+
+### Project reference:
+* https://www.freecodecamp.org/news/how-to-build-a-single-page-application-using-vue-js-vuex-vuetify-and-firebase-838b40721a07/
+
 ## Project setup
 ```
 yarn install
