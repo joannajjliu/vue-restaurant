@@ -9,7 +9,7 @@
             <div class="display-1 font-weight-bold white--text text-xs-center">Finally be a foodie at home with fresh, chef-prepared meals delivered daily to your door.</div>
             <v-btn fab class="mt-5 brown darken-4">
                 <v-icon large color="white">
-                    mdi-home
+                    mdi-arrow-down
                 </v-icon>
             </v-btn>
         </v-layout>
@@ -28,5 +28,6 @@ export default {
     background-size: cover;
     width: 100%;
     height: 100%;
+    max-height: 100vh;
 }
 </style>
